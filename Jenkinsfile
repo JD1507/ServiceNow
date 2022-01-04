@@ -3,7 +3,7 @@ pipeline {
   environment {
     APPSYSID = '680d77352fbcc110ec13ffecf699b69a'
     BRANCH = "${BRANCH_NAME}"
-    CREDENTIALS = '18be2029-2e62-4070-8828-dbb3aa39f0f0'
+    CREDENTIALS = 'bf228170-dfd6-4771-b372-8dc5fd5ad2ca'
     DEVENV = 'https://dev76270.service-now.com/'
   }
   stages {
